@@ -1,1 +1,3 @@
 # Avance1_Proyecto_Final_Programaci-n
+En este avance me enfoqué en la realización de las funciones correctamente y el análisis de los datos ingresados por el usuario, ya sea códigos con caracteres incorrectos, números negativos o en el caso en el que se ingrese un enter demás. El código y las funciones se encuentran listas para migrarse a vectores y matrices y a realizar el crud, además de agregar los descuentos correspondientes a las variables creadas. 
+El código además ya cuenta con la opción de activar y desactivar producto por medio de igualación, por lo que se verifica que pueda buscar datos correctamente al implementarse el crud.
